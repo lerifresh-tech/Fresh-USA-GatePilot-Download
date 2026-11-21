@@ -1,0 +1,12 @@
+Access GatePilot™ V4.0.5
+
+Fresh USA, Inc.
+
+This is the unchanged owner-approved Windows V4.0.5 installer, distributed under the permanent filename Access-GatePilot-Setup.exe.
+Includes the Fresh USA EULA and the illustrated English PDF user manual.
+The owner confirmed FA-900 operation online, offline, and after reconnection. No new Windows or hardware tests were performed for this publication.
+
+Supported target: Intel/AMD x64; Windows 10 1607+, Windows 11, Windows Server 2016+ Desktop Experience, subject to application and vendor SDK requirements.
+The installer is not digitally code-signed.
+Use is subject to the agreement displayed by the installer.
+Contact: order@fresh222.com
